@@ -15,7 +15,9 @@ export default function ReachOutToUs() {
       <p className="text-left mt-4">
         Or just reach out manually on
         <a
-          href="tel:+919960302200"
+          onClick={() => {
+              window.location.href = "tel:+919960302200";
+            }}
           className="text-[#00345b]/90 hover:underline ml-1"
         >
           +91-996030220
