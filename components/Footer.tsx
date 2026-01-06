@@ -126,7 +126,7 @@ export default function Footer() {
               className="text-muted-foreground hover:text-primary block"
               onClick={() =>
                 window.open(
-                  "https://wa.me/9960302200?text=Hello%20I%20found%20your%20cafe%20online!",
+                  "https://wa.me/919960302200?text=Hello%20I%20found%20your%20cafe%20online!",
                   "_blank"
                 )
               }
