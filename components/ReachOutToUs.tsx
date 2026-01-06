@@ -13,12 +13,12 @@ export default function ReachOutToUs() {
       </h1>
 
       <p className="text-left mt-4">
-        Or just reach out manually to
+        Or just reach out manually on
         <a
           href="mailto:contact@example.com"
           className="text-[#00345b]/90 hover:underline ml-1"
         >
-          contact@example.com
+          +91-996030220
         </a>
       </p>
 
