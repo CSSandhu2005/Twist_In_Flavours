@@ -148,7 +148,7 @@ export const MainHero: React.FC<MainHeroProps> = ({
 
       <Food
         title="Twist In Flavours"
-        description="For over a decade, we've enabled our customers to discover new tastes, delivered right to their doorstep."
+        description="A cozy space where aesthetics meet flavour, signature eats, warm vibes, and moments worth slowing down for."
         images={heroImages}
       />
 

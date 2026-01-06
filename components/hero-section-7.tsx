@@ -70,7 +70,7 @@ export function Food({
           animate="show"
           variants={FADE_IN_ANIMATION_VARIANTS}
           transition={{ delay: 0.5 }}
-          className=" max-w-xl text-lg text-muted-foreground"
+          className=" max-w-2xl text-lg text-muted-foreground"
         >
           {description}
         </motion.p>
